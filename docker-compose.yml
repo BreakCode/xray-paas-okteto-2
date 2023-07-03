@@ -1,5 +1,5 @@
 services:
-  app:
+  app-2:
     image: deeplee/xray-paas:latest
     ports:
       - "80:80"
